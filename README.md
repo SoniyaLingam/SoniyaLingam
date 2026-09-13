@@ -3,13 +3,13 @@
 ### 💻 Aspiring Software Developer | Full-Stack Developer | B.Tech IT Student
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/soniya-lingam-m">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/SoniyaLingam">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:soniyalingam24@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
@@ -23,6 +23,7 @@ I am a B.Tech Information Technology student passionate about software developme
 - 🎓 B.Tech Information Technology (2027) – National Engineering College
 - 💻 Aspiring Full-Stack Developer
 - 🚀 Currently focusing on MERN Stack Development
+- 🤖 Exploring Agentic AI and Generative AI
 - 🧠 Passionate about programming and problem solving
 - 👥 Vice President – Computer Society of India (CSI)
 - 🤝 IT Association Executive Member
@@ -51,9 +52,11 @@ A full-stack college **Gatepass Management System** built using the **MERN Stack
 - 📁 File upload and Excel processing
 - 📱 Responsive user interface
 
-🔗 **[View Gatepass Management System]https://github.com/PremaSundari180805/Gatepass_System.git**
+🔗 **[View Gatepass Management System](https://github.com/PremaSundari180805/Gatepass_System.git)**
 
 ---
+
+# 📚 Other Projects
 
 ## 🤖 StudyPlannerAI
 
@@ -63,9 +66,10 @@ An AI-powered personalized study planning application using a multi-agent archit
 
 The project includes Research, Summarizer, Quiz, Feedback and Scheduler agents.
 
-🔗 **[View Project]https://studyplannerai-1.onrender.com/**
+🔗 **[View StudyPlannerAI](https://studyplannerai-1.onrender.com/)**
 
 ---
+
 
 # 💼 Internship Experience
 
@@ -116,11 +120,11 @@ MongoDB • MySQL
 
 ### 🔧 Tools & Technologies
 
-Git • GitHub • REST APIs • Vite
+Git • GitHub • Vite • REST APIs • Linux
 
 ### 🧠 Other Skills
 
-Data Structures & Algorithms • Problem Solving • Machine Learning
+Data Structures & Algorithms • Problem Solving • Machine Learning • Generative AI • Agentic AI
 
 ---
 
@@ -139,15 +143,21 @@ Recognized as a top performer across the college for programming and problem sol
 
 - Participated in **Hackathon – CIT Coimbatore**
 - Participated in **Paper Presentation – GCE Erode**
-- Participated in technical events including Logic Ladder, InnoQuest, CodNet, TectTrix, TechNova and CodeSprint
+- Participated in technical events including:
+  - Logic Ladder
+  - InnoQuest
+  - CodNet
+  - TectTrix
+  - TechNova
+  - CodeSprint
 
 ---
 
 # 👥 Leadership & Activities
 
-### 🏛️ President – Computer Society of India (CSI)
+### 🏛️President – Computer Society of India (CSI)
 
-- Coordinating and supporting technical activities
+- Supporting and coordinating technical activities
 - Encouraging student participation in technical events
 - Contributing to organizing technical initiatives
 
@@ -161,53 +171,63 @@ Recognized as a top performer across the college for programming and problem sol
 
 # 📜 Certifications
 
-- 🎓 The Joy of Computing using Python – NPTEL
-- 🐍 Python for Data Science – NPTEL
-- 📊 Data Analytics in Python – NPTEL
-- 🔐 Privacy and Security in Social Networks – NPTEL
-- 🐍 Python Certifications – Scaler
-- 💻 Python Certification – CodeFobe
-- 🌐 JavaScript – Basic & Intermediate
-- 🗄️ SQL
-- 💻 C / C++
-- ☕ Java
-- 🐧 Linux
-- 🌐 PHP & MySQL
-- 🤖 Machine Learning
-- ⚛️ Angular
-- 🎨 Frontend Development
+- **Network Addressing and Basic Troubleshooting** – Cisco Networking Academy
+- **MongoDB Basics for Students** – MongoDB
+- **Database Design** – Oracle Academy
+- **Smart Grid** – NPTEL
+- **Microsoft 365 – Work Smarter with Microsoft 365**
+- **Microsoft AI – Explore Generative AI**
+- **Microsoft 365 Certification**
+- **Python** – CodeForces
+- **Java** – Spoken Tutorial
+- **C++** – Spoken Tutorial
+- **HTML** – Certification
+- **CSS** – Certification
+- **JavaScript – Basic & Intermediate**
+- **Angular** – SoloLearn
+- **PHP & MySQL**
+- **Linux**
+- **Generative AI Software Development** – Simplilearn
+- **The Joy of Computing using Python** – NPTEL
+- **Python for Data Science** – NPTEL
+- **Data Analytics with Python** – NPTEL
+- **Privacy and Security in Online Social Media** – NPTEL
+- **Machine Learning**
 
----
+--
 
 # 🎓 Education
 
-### National Engineering College
+### 🏛️ National Engineering College
 
 **B.Tech Information Technology (2027)**
 
-### BMC Matric Higher Secondary School
+### 🏫 BMC Matric Higher Secondary School
 
 **Higher Secondary Education – 91.5%**
 
 ---
 
 # 🎯 Current Focus
--     Agentic Ai
+
 - 🚀 Full-Stack Development
 - ⚛️ React.js
 - 🟢 Node.js & Express.js
 - 🍃 MongoDB
+- ☕ Java & Spring Boot
 - 🧠 Data Structures & Algorithms
+- 🤖 Agentic AI
+- ✨ Generative AI
 - 🔐 Authentication & Authorization
 - 🌐 REST API Development
 
---
+---
 
 # 📫 Connect With Me
 
 <p align="center">
 
-<a href="www.linkedin.com/in/soniya-lingam-m">
+<a href="https://www.linkedin.com/in/soniya-lingam-m">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 

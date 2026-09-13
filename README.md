@@ -51,7 +51,7 @@ A full-stack college **Gatepass Management System** built using the **MERN Stack
 - 📁 File upload and Excel processing
 - 📱 Responsive user interface
 
-🔗 **[View Gatepass Management System](YOUR_GATEPASS_REPOSITORY_URL)**
+🔗 **[View Gatepass Management System]https://github.com/PremaSundari180805/Gatepass_System.git**
 
 ---
 
@@ -63,7 +63,7 @@ An AI-powered personalized study planning application using a multi-agent archit
 
 The project includes Research, Summarizer, Quiz, Feedback and Scheduler agents.
 
-🔗 **[View Project](YOUR_STUDYPLANNER_PROJECT_URL)**
+🔗 **[View Project]https://studyplannerai-1.onrender.com/**
 
 ---
 
@@ -192,7 +192,7 @@ Recognized as a top performer across the college for programming and problem sol
 ---
 
 # 🎯 Current Focus
-- Agentic Ai
+-     Agentic Ai
 - 🚀 Full-Stack Development
 - ⚛️ React.js
 - 🟢 Node.js & Express.js
@@ -201,16 +201,7 @@ Recognized as a top performer across the college for programming and problem sol
 - 🔐 Authentication & Authorization
 - 🌐 REST API Development
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoniyaLingam&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoniyaLingam&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
+--
 
 # 📫 Connect With Me
 

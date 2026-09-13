@@ -6,7 +6,7 @@
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="YOUR_GITHUB_URL">
+  <a href="https://github.com/SoniyaLingam">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
   <a href="mailto:YOUR_EMAIL">
@@ -18,17 +18,14 @@
 
 ## 👩‍💻 About Me
 
-I am a **B.Tech Information Technology student** passionate about software development, full-stack web applications, and problem solving.
+I am a B.Tech Information Technology student passionate about software development, full-stack web development, and problem solving. I enjoy building practical applications, learning new technologies, and continuously improving my technical skills.
 
-I enjoy transforming real-world requirements into practical software solutions and continuously improving my skills across frontend development, backend development, databases, and programming.
-
-- 🎓 **B.Tech Information Technology (2027)** – National Engineering College
-- 💻 Aspiring **Full-Stack Developer**
-- 🚀 Currently focusing on **MERN Stack Development**
-- 🧠 Strong interest in **Problem Solving & Data Structures**
-- 👥 **Vice President – Computer Society of India (CSI)**
-- 🤝 **IT Association Executive Member**
-- 🌱 Continuously learning and exploring modern technologies
+- 🎓 B.Tech Information Technology (2027) – National Engineering College
+- 💻 Aspiring Full-Stack Developer
+- 🚀 Currently focusing on MERN Stack Development
+- 🧠 Passionate about programming and problem solving
+- 👥 Vice President – Computer Society of India (CSI)
+- 🤝 IT Association Executive Member
 
 ---
 
@@ -36,103 +33,209 @@ I enjoy transforming real-world requirements into practical software solutions a
 
 ## 🎓 Gatepass Management System
 
-> **A full-stack MERN application designed to digitize and streamline student gatepass, leave, attendance, approval, and parent communication processes.**
+A full-stack college **Gatepass Management System** built using the **MERN Stack** to simplify student leave requests, approvals, attendance tracking, and parent communication.
 
-The **Gatepass Management System** is a role-based web application that connects **Students, Parents, Tutors, HODs, Wardens, and Administrators** through a centralized platform.
+### 🛠️ Tech Stack
 
-The system replaces manual gatepass and leave management with a structured digital workflow.
-
-### 🎯 Problem Statement
-
-Traditional college gatepass and leave processes can involve:
-
-- Manual paperwork
-- Time-consuming approval processes
-- Delayed parent communication
-- Difficulty tracking attendance
-- Lack of centralized information
-- Difficulty managing different user roles
-
-### 💡 Solution
-
-The Gatepass Management System provides a centralized platform where students can submit leave requests, parents can authenticate using OTP, and authorized staff can review, approve, and manage leave and attendance information efficiently.
-
----
+**React.js • Vite • Tailwind CSS • Node.js • Express.js • MongoDB • Mongoose • JWT • OTP • Axios**
 
 ### ✨ Key Features
 
-| Feature | Description |
-|---|---|
-| 🔐 Role-Based Access | Separate access for Admin, HOD, Tutor, Warden, Parent and Student |
-| 📱 Parent OTP Login | Secure OTP-based parent authentication |
-| 📝 Leave Management | Students can submit ordinary and emergency leave requests |
-| ✅ Approval Workflow | Authorized staff can review and approve leave requests |
-| 📊 Attendance Tracking | Centralized student attendance management |
-| 📧 Email Notifications | Automated notifications for important leave activities |
-| 🔒 Protected Routes | Authentication-based access to application modules |
-| 📁 File Upload | Support for file uploads using Multer |
-| 📊 Excel Processing | Excel data processing using XLSX |
-| 🔄 REST APIs | Structured communication between frontend and backend |
-| 📱 Responsive UI | User-friendly interface across different screen sizes |
+- 🔐 Role-based access for Admin, HOD, Tutor, Warden, Parent and Student
+- 📱 OTP-based parent authentication
+- 📝 Ordinary and emergency leave requests
+- ✅ Leave approval workflow
+- 📊 Attendance tracking
+- 📧 Email notifications
+- 🔒 Protected routes and authentication
+- 📁 File upload and Excel processing
+- 📱 Responsive user interface
+
+🔗 **[View Gatepass Management System](YOUR_GATEPASS_REPOSITORY_URL)**
 
 ---
 
-### 🛠️ Technology Stack
+## 🤖 StudyPlannerAI
 
-#### Frontend
+An AI-powered personalized study planning application using a multi-agent architecture.
 
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-671DD8?style=for-the-badge&logo=axios&logoColor=white)
+**Technologies:** React, FastAPI, CrewAI, Ollama, SQLite, SQLAlchemy
 
-#### Backend
+The project includes Research, Summarizer, Quiz, Feedback and Scheduler agents.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-#### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-
-#### Authentication & Utilities
-
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+🔗 **[View Project](YOUR_STUDYPLANNER_PROJECT_URL)**
 
 ---
 
-### 🏗️ Application Architecture
+# 💼 Internship Experience
 
-```text
-                         ┌─────────────────────┐
-                         │      Users          │
-                         │                     │
-                         │ Student | Parent    │
-                         │ Tutor | HOD | Warden│
-                         │ Admin                │
-                         └──────────┬──────────┘
-                                    │
-                                    ▼
-                         ┌─────────────────────┐
-                         │     React.js        │
-                         │     Frontend        │
-                         │   Vite + Tailwind   │
-                         └──────────┬──────────┘
-                                    │
-                              RESTful APIs
-                                    │
-                                    ▼
-                         ┌─────────────────────┐
-                         │ Node.js + Express   │
-                         │      Backend        │
-                         └──────────┬──────────┘
-                                    │
-                  ┌─────────────────┼─────────────────┐
-                  │                 │                 │
-                  ▼                 ▼                 ▼
-           ┌────────────┐   ┌─────────────┐   ┌─────────────┐
-           │  MongoDB   │   │    JWT +    │   │    Email    │
-           │ + Mongoose │   │     OTP     │   │ Notifications│
-           └────────────┘   └─────────────┘   └─────────────┘
+## 🌐 YounderBots – Web Development Intern
+
+- Developed responsive user interfaces using React.js
+- Worked on HRMS and EMS frontend modules
+- Implemented UI components and client-side interactions
+- Worked on form validation and dynamic UI behaviour
+- Supported UI improvements and bug fixes
+
+## 🌐 Pinnacle Virtual Labs – Web Development Intern
+
+- Developed responsive web applications
+- Strengthened frontend development and problem-solving skills
+
+## 🌐 CodSoft – Web Development Intern
+
+- Worked on web development tasks
+- Built responsive web interfaces
+- Practiced frontend development and problem solving
+
+## 🌐 Prodigy InfoTech – Web Development Intern
+
+- Worked on web development projects
+- Implemented responsive interfaces
+- Strengthened practical programming skills
+
+---
+
+# 🛠️ Technical Skills
+
+### 💻 Programming Languages
+
+Java • JavaScript • Python • C • C++ • SQL
+
+### 🌐 Frontend
+
+HTML • CSS • JavaScript • React.js • Angular
+
+### ⚙️ Backend
+
+Node.js • Express.js • Spring Boot • PHP
+
+### 🗄️ Databases
+
+MongoDB • MySQL
+
+### 🔧 Tools & Technologies
+
+Git • GitHub • REST APIs • Vite
+
+### 🧠 Other Skills
+
+Data Structures & Algorithms • Problem Solving • Machine Learning
+
+---
+
+# 🏆 Achievements
+
+### 🥇 Skillrack Top Performer
+
+Recognized as a top performer across the college for programming and problem solving.
+
+- 💻 Solved **2700+ programming problems**
+- 🧩 Completed **700+ Daily Challenges and Daily Tests**
+- 🧠 Practiced diverse programming concepts and problem-solving domains
+
+
+### 💡 Technical Activities
+
+- Participated in **Hackathon – CIT Coimbatore**
+- Participated in **Paper Presentation – GCE Erode**
+- Participated in technical events including Logic Ladder, InnoQuest, CodNet, TectTrix, TechNova and CodeSprint
+
+---
+
+# 👥 Leadership & Activities
+
+### 🏛️ President – Computer Society of India (CSI)
+
+- Coordinating and supporting technical activities
+- Encouraging student participation in technical events
+- Contributing to organizing technical initiatives
+
+### 💻 IT Association – Executive Member
+
+- Participating in technical activities and events
+- Supporting departmental initiatives
+- Collaborating with students and team members
+
+---
+
+# 📜 Certifications
+
+- 🎓 The Joy of Computing using Python – NPTEL
+- 🐍 Python for Data Science – NPTEL
+- 📊 Data Analytics in Python – NPTEL
+- 🔐 Privacy and Security in Social Networks – NPTEL
+- 🐍 Python Certifications – Scaler
+- 💻 Python Certification – CodeFobe
+- 🌐 JavaScript – Basic & Intermediate
+- 🗄️ SQL
+- 💻 C / C++
+- ☕ Java
+- 🐧 Linux
+- 🌐 PHP & MySQL
+- 🤖 Machine Learning
+- ⚛️ Angular
+- 🎨 Frontend Development
+
+---
+
+# 🎓 Education
+
+### National Engineering College
+
+**B.Tech Information Technology (2027)**
+
+### BMC Matric Higher Secondary School
+
+**Higher Secondary Education – 91.5%**
+
+---
+
+# 🎯 Current Focus
+- Agentic Ai
+- 🚀 Full-Stack Development
+- ⚛️ React.js
+- 🟢 Node.js & Express.js
+- 🍃 MongoDB
+- 🧠 Data Structures & Algorithms
+- 🔐 Authentication & Authorization
+- 🌐 REST API Development
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SoniyaLingam&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoniyaLingam&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="www.linkedin.com/in/soniya-lingam-m">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://github.com/SoniyaLingam">
+  <img src="https://img.shields.io/badge/GitHub-SoniyaLingam-black?style=for-the-badge&logo=github" />
+</a>
+
+<a href="mailto:soniyalingam24@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+🚀 Building • Learning • Solving • Growing
+</h3>
+
+<p align="center">
+<strong>Passionate about turning ideas into practical software solutions.</strong>
+</p>

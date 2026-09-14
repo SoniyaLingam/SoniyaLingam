@@ -54,9 +54,6 @@ A full-stack college **Gatepass Management System** built using the **MERN Stack
 
 🔗 **[View Gatepass Management System](https://github.com/PremaSundari180805/Gatepass_System.git)**
 
----
-
-# 📚 Other Projects
 
 ## 🤖 StudyPlannerAI
 
@@ -104,15 +101,15 @@ The project includes Research, Summarizer, Quiz, Feedback and Scheduler agents.
 
 ### 💻 Programming Languages
 
-Java • JavaScript • Python • C • C++ • SQL
+Java • JavaScript • Python • C • SQL
 
 ### 🌐 Frontend
 
-HTML • CSS • JavaScript • React.js • Angular
+HTML • CSS • JavaScript • React.js 
 
 ### ⚙️ Backend
 
-Node.js • Express.js • Spring Boot • PHP
+Node.js • Express.js 
 
 ### 🗄️ Databases
 
@@ -120,11 +117,11 @@ MongoDB • MySQL
 
 ### 🔧 Tools & Technologies
 
-Git • GitHub • Vite • REST APIs • Linux
+Git • GitHub • Vite • REST APIs 
 
 ### 🧠 Other Skills
 
-Data Structures & Algorithms • Problem Solving • Machine Learning • Generative AI • Agentic AI
+Data Structures & Algorithms • Problem Solving 
 
 ---
 
@@ -141,6 +138,7 @@ Recognized as a top performer across the college for programming and problem sol
 
 ### 💡 Technical Activities
 
+- Secound prize in Paper Presentation in TectTron Event
 - Participated in **Hackathon – CIT Coimbatore**
 - Participated in **Paper Presentation – GCE Erode**
 - Participated in technical events including:
@@ -169,32 +167,6 @@ Recognized as a top performer across the college for programming and problem sol
 
 ---
 
-# 📜 Certifications
-
-- **Network Addressing and Basic Troubleshooting** – Cisco Networking Academy
-- **MongoDB Basics for Students** – MongoDB
-- **Database Design** – Oracle Academy
-- **Smart Grid** – NPTEL
-- **Microsoft 365 – Work Smarter with Microsoft 365**
-- **Microsoft AI – Explore Generative AI**
-- **Microsoft 365 Certification**
-- **Python** – CodeForces
-- **Java** – Spoken Tutorial
-- **C++** – Spoken Tutorial
-- **HTML** – Certification
-- **CSS** – Certification
-- **JavaScript – Basic & Intermediate**
-- **Angular** – SoloLearn
-- **PHP & MySQL**
-- **Linux**
-- **Generative AI Software Development** – Simplilearn
-- **The Joy of Computing using Python** – NPTEL
-- **Python for Data Science** – NPTEL
-- **Data Analytics with Python** – NPTEL
-- **Privacy and Security in Online Social Media** – NPTEL
-- **Machine Learning**
-
---
 
 # 🎓 Education
 
@@ -210,18 +182,9 @@ Recognized as a top performer across the college for programming and problem sol
 
 # 🎯 Current Focus
 
-- 🚀 Full-Stack Development
-- ⚛️ React.js
-- 🟢 Node.js & Express.js
-- 🍃 MongoDB
-- ☕ Java & Spring Boot
-- 🧠 Data Structures & Algorithms
 - 🤖 Agentic AI
 - ✨ Generative AI
-- 🔐 Authentication & Authorization
-- 🌐 REST API Development
 
----
 
 # 📫 Connect With Me
 

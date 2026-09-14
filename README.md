@@ -30,7 +30,7 @@ I am a B.Tech Information Technology student passionate about software developme
 
 ---
 
-# 🚀 Featured Project
+# 🚀 Project
 
 ## 🎓 Gatepass Management System
 
@@ -70,6 +70,12 @@ The project includes Research, Summarizer, Quiz, Feedback and Scheduler agents.
 
 # 💼 Internship Experience
 
+## 🌐 Triton - AI Intern [Ongoing]
+
+- Built a reproducible Python project foundation with Git/GitHub.
+- Implemented lazy CSV batch processing using iterators and generators.
+- Developed unit tests with 92% code coverage and memory-efficiency testing.
+
 ## 🌐 YounderBots – Web Development Intern
 
 - Developed responsive user interfaces using React.js
@@ -101,7 +107,7 @@ The project includes Research, Summarizer, Quiz, Feedback and Scheduler agents.
 
 ### 💻 Programming Languages
 
-Java • JavaScript • Python • C • SQL
+Java • JavaScript • SQL
 
 ### 🌐 Frontend
 
@@ -138,7 +144,7 @@ Recognized as a top performer across the college for programming and problem sol
 
 ### 💡 Technical Activities
 
-- Secound prize in Paper Presentation in TectTron Event
+- Secound prize in Paper Presentation in TectTron Event[Intra College Competition] 
 - Participated in **Hackathon – CIT Coimbatore**
 - Participated in **Paper Presentation – GCE Erode**
 - Participated in technical events including:
